@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\egor\Desktop\3 sem\algoritms_and_data_structures\lab_1_2\lab_1_2\main.cpp(39,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab_1_2.vcxproj -> C:\Users\egor\Desktop\3 sem\algoritms_and_data_structures\lab_1_2\x64\Debug\lab_1_2.exe
